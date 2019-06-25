@@ -1,0 +1,2 @@
+# NOTES
+linux web server
